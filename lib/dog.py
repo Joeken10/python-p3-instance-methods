@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 class Dog:
     def bark(self):
-         print("sit")
+         print("Woof!")
    
 
 # Class body goes here
