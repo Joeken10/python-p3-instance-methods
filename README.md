@@ -234,4 +234,4 @@ do.
 - [Instance method in Python](https://www.geeksforgeeks.org/instance-method-in-python/)
 - [Method Objects](https://docs.python.org/3/tutorial/classes.html#method-objects)
 
-[python docs]: https://docs.python.org/3/
+[python docs]: https://docs.python.org/3/ ...
